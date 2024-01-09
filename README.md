@@ -1,16 +1,35 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**AD10101011/AD10101011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Salut, je suis Adrien Hoyoux, un passionné de programmation avec une solide expérience dans le développement backend, forgée au cours de mon parcours scolaire à l'HEPL en orientation industrielle. Actuellement, je m'immerge également dans l'apprentissage du développement frontend pour enrichir mes compétences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+Je suis compétent dans les langages de programmation suivants :
+- Java
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- C#
+- Python ( traitement image)
+
+## Développement Backend
+
+Ma spécialité réside dans le développement backend, où j'ai travaillé avec divers outils et frameworks. Certains des frameworks que j'ai utilisés incluent :
+- Spring Boot
+
+N'hésitez pas à explorer mes projets pour découvrir des exemples concrets de mon travail dans le développement backend.
+
+## Apprentissage du Frontend
+
+Je suis actuellement en train d'acquérir des compétences dans le développement frontend. Mon objectif est de devenir un développeur full-stack capable de créer des applications web complètes, de l'interface utilisateur à la logique backend.
+
+## Frameworks déjà utilisés
+
+J'ai travaillé avec les frameworks suivants :
+- Spring Boot : Un framework Java populaire pour le développement backend.
+- Vue.js : Un framework JavaScript progressif pour la construction d'interfaces utilisateur.
+
